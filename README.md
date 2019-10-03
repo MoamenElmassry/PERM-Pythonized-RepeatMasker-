@@ -1,1 +1,1 @@
-# PERM-Pythonized-RepeatMasker-
+# PERM (Pythonized RepeatMasker)
