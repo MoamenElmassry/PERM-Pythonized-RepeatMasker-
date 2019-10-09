@@ -271,4 +271,9 @@ def part_path_from_num(PART_NUM, LEVELS):
 
 
 
-
+def simplePartition():
+	print("Generating list of batches..")
+	parts = {BATCHES()}
+	num_Parts = scalar(parts)
+	levels = 1 + int(log(num_Parts) / log(MAX_DIR_SIZE))
+	
